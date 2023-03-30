@@ -1,0 +1,12 @@
+.pdm/**
+.settings/**
+autogen/**
+gecko_sdk_4.2.1/**
+GNU ARM v10.3.1 - Debug/**
+config/**
+.cproject
+.project
+.projectlinkstore
+led_matrix.pintool
+led_matrix.slcp
+led_matrix.slps
